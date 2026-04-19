@@ -105,5 +105,11 @@ Then ask Claude:
 - `.gitignore` blocks `.env` automatically
 - `.env.example` ships as a safe placeholder
 
+## Use Cases
+
+- **Automation consultants** — connect Claude to any client CRM, project tool, or custom API without writing boilerplate; generate a working integration in minutes instead of days
+- **Agencies running GoHighLevel** — control your CRM through conversation: look up contacts, create leads, and check pipeline status without leaving your terminal
+- **Developers** — skip the plumbing and go straight to building; every REST API becomes a natural language interface through Claude Code
+
 ---
 Built by [Theo](https://github.com/theokalogr-bit) — AI automation consultant based in Greece.
