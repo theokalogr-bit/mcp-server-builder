@@ -2,6 +2,10 @@
 
 > A Claude Code skill that generates production-ready MCP (Model Context Protocol) servers for any REST API — so you can talk to any tool, CRM, or service in plain English through Claude.
 
+## Demo
+
+> Demo GIF coming soon — see [Setup](#setup) to run locally.
+
 ## What This Does
 
 Most developers interact with APIs by writing code — HTTP requests, parsing JSON, handling errors. This skill removes that entirely. You provide an API name, base URL, API key, and a list of endpoints. Claude generates a complete, runnable MCP server that connects that API directly to Claude Code.
