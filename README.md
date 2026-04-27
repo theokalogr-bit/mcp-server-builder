@@ -4,7 +4,7 @@
 
 ## Demo
 
-> Demo GIF coming soon — see [Setup](#setup) to run locally.
+> Demo GIF coming soon — see [Using the Skill](#using-the-skill) to get started.
 
 ## What This Does
 
